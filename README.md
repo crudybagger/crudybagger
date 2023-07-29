@@ -6,7 +6,7 @@
 - ⚡ Random Thought : Very difficult tongue twisters could be a Turing test for AI Speech 
 
 [ My portfolio ](https://sarang.nitw.in)  
-Currently working on : [ Blog eventually Devlog ](https://blog.sarang.nitw.in)
+Currently working on : <a href='https://blog.sarang.nitw.in' target='_blank'> Blog eventually Devlog </a>
 
 <!--
 **crudybagger/crudybagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
